@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang ="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Atividade Av 09/03</title>
+    </head>
+    <body>
+        <font color:purple>
+            <h1 align=center>O que é hipertexto?</h1>
+        </font>
+        <p>Refere-se aos <strong>links</strong> que conectam <em>paginas da web </em><strong><u>entre si,</u></strong>
+        seja dentro <mark>de um unico site entre sites.</mark></p>
+            <hr size="6"color=red>
+        <font color="red">
+            <h2 align=left>O que é html?</h2>
+        </font>
+        <p>É uma <em>linguagem de marcação</em>utilizada na <mark>contrução de paginas web</mark><strong><u> HTML(Hyper text mark language)</u></strong>
+        que siginifica <strong>"Linguagem de marcação de hipertexto".</strong></p>
+            <hr size="6"color=black>
+        <font color="pink">
+            <h3 align="right">Qual a diferença entre cliente servidor?</h3>
+        </font>
+        <p>Clientes<strong> são os dispositivos de acesso as páginas web</strong> por meio de um 
+        <em>navegador</em>. Servidores são os computadores <strong><u>que hospedam as páginas web</u></strong>
+        e <mark>disponibilizam para os dispositivos clíentes.</mark></p>
+            <hr size="6"color=green>
+        <h4>Lista de aplicativos</h4>
+        <ul>
+            <li>Excel</li>
+            <li>Power Point</li>
+            <li>Word</li>
+            <li>Power Pont</li>
+            <li>Outlook</li>
+
+        </ul>
+        <h4>Lista de aplicativos</h4>
+        <ol>
+            <li>Excel</li>
+            <li>OneNote</li>
+            <li>Outlook</li>
+            <li>Power point</li>
+            <li>World</li>
+        </ol>
+
+    </body>
+</html>
