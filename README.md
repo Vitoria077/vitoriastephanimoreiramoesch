@@ -12,5 +12,6 @@ Eu estudo em uma escola de curso técnico ♟
 
 Meu curso é o de Desenvolvimento de Sistemas 🎭
 
+
 Estou com saudades das aulas de Educação Física 🎰
 
