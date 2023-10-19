@@ -6,26 +6,33 @@
 
     </head>
 <body>
+    <form method="post" action="">
+        digite um mês de 1 a 12:
+        <input type="number" id="numero">
+        <button onclick="exibir()">exibir o mês</button>
+    </form>
     <script>
-       
-        var tinta= window.prompt("digite numero");
-        switch (tinta){
-        case '1':
-            document.write ('Irei pintar de amarela');
-            break;
-        case '2':
-            document.write ('Irei pintar de azul')
-            break;
-            case '3':
-            document.write ('Irei pintar de vermelho')
-            break;
-            case '4':
-            document.write ('Irei pintar de verde')
-            break;
+       function exibir(){
+        var mes= number(document.getElementById ("numero").value);
+        switch (mes){  
+            case 1: alert('janeiro'); break;
+            case 2: alert('fevereiro'); break;
+            case 3: alert('marco'); break;
+            case 4: alert('abril'); break;
+            case 5: alert('maio'); break;
+            case 6: alert('junho'); break;
+            case 7: alert('julho'); break;
+            case 8: alert('agosto'); break;
+            case 9: alert('setembro'); break;
+            case 10: alert('outubro'); break;
+            case 11: alert('novembro'); break;
+            case 12: alert('dezembro'); break;
             default:
-            document.write('não irei pintar');
-            break;
+                alert('valor não é valido');
+                break;
         }
-    </script>  
+    }
+    </script>
 </body>
 </html>
+   
